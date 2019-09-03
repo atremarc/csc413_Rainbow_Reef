@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RainbowReef:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/RainbowReef_jar</output-path>
+    <root id="archive" name="RainbowReef.jar">
+      <element id="module-output" name="RainbowReef" />
+    </root>
+  </artifact>
+</component>
